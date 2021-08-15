@@ -1,0 +1,89 @@
+[
+    {   "id": 1,
+        "ciudad": "Arica",
+        "single": 65000,
+        "doble": 70000,
+        "img": "./imagenes/arica.jpg",
+        "descripcion": "¿Adoras sentir el sol en tu piel y que la arena tibia te acune mientras descansas? Entonces debes visitar la ciudad de la eterna primavera. Su buen clima y playas de agua tibia invitan a disfrutar de románticas puestas de sol y sensuales baños nocturnos. Siéntete a tus anchas practicando deportes acuáticos como el surf y bodyboard, mientras admiras la inmensidad del Morro de Arica. Monumento Nacional ícono de este destino, en sus senderos puedes practicar trekking en familia o lanzarte en parapente desde su cima. La cocina local es un placer que no puedes perderte."        
+    },
+
+    {   "id": 2,
+        "ciudad": "Antofagasta", 
+        "single": 64000, 
+        "doble": 69000,
+        "img": "./imagenes/antofagasta.jpg",
+        "descripcion": "Una mezcla de historias sobre pueblos mineros en medio del desierto. Limpios cielos estrellados; y playas para familias y deportistas te esperan en Antofagasta. Viaja por la historia, explorando los rincones y misterios de las oficinas salitreras. Estas antiguas aldeas, que tuvieron su esplendor entre finales del siglo 19 y principios del 20, se han transformado en verdaderos “pueblos fantasmas”. Aprovecha los despejados cielos del Desierto de Atacama para observar las estrellas en los mejores observatorios astronómicos del país."
+    },
+
+    {   "id": 3,
+        "ciudad": "La Serena", 
+        "single": 58000, 
+        "doble": 65000,
+        "img": "./imagenes/laserena.jpg",
+        "descripcion": "Disfruta la magia del clima desértico de la zona norte y la proximidad de las tierras fértiles de la zona central, donde se cultivan uvas para producir buenos vinos y piscos, todo en los alrededores de La Serena y Coquimbo. Si vienes en primavera y verano, aprovecha las playas de La Serena. Camina por la extensa Avenida del Mar para elegir dónde instalarás tu toalla, o anda de compras a la Recova, el mercado más famoso de la zona, que incluye una excelente feria de artesanía. En Coquimbo, no puedes perderte la playa La Herradura y la vida nocturna del Barrio Inglés."
+    },
+
+    {   "id": 4,
+        "ciudad": "Isla de Pascua", 
+        "single": 71000, 
+        "doble": 82000,
+        "img": "./imagenes/anakena.jpg",
+        "descripcion": "No hay otro lugar habitado en el mundo que esté tan aislado en el mar como la polinesia chilena. Así de única es Rapa Nui. Y es esa misma condición la que le otorga su autenticidad y un aura de fascinante misterio. ¡Ya es hora de que vengas a descubrir sus secretos! Explora Rapa Nui, sus playas con arena de color rosa, los volcanes y praderas que la componen, y sus más de 1.000 moai que fueron testigos silenciosos de una compleja sociedad."
+    },
+
+    {   "id": 5,
+        "ciudad": "Valparaíso", 
+        "single": 47000, 
+        "doble": 53000,
+        "img": "./imagenes/valparaiso.jpg",
+        "descripcion": "Bohemia y colorida. Valparaíso te invita a descubrir siempre un nuevo decorado urbano, una interesante galería de arte o un rincón gastronómico, entre sus laberínticos cerros que han sido inspiración de poetas y escritores. Cautívate con la loca arquitectura de la Ciudad Patrimonio de la Humanidad. Recorre a pie sus estrechas calles, infinitas escaleras, históricos ascensores y sus múltiples miradores. Contágiate de la alegría de sus carnavales y espectacular show de juegos artificiales que despiden desde el mar las Fiestas de Fin de Año."
+    },
+
+    {   "id": 6,
+        "ciudad": "Santiago", 
+        "single": 54000, 
+        "doble": 61000,
+        "img": "./imagenes/santiago.jpg",
+        "descripcion": "Dinámica y cosmopolita. Santiago cautiva por sus diversos panoramas y esa versatilidad que la caracteriza. Escenario de eventos que resaltan la cultura chilena y grandes festivales internacionales, a través de sus sonidos, sabores y colores. La capital chilena llena de vida a todos quienes la visitan. La diversidad la puedes sentir en sus barrios; recorrerlos es la mejor forma de conocer la ciudad. Piérdete por sus calles para encontrar originales galerías de arte, tiendas de diseño innovadoras y ferias de artesanía, además de restaurantes, bares y cafés, que complementas con una oferta atractiva y novedosa."
+    },
+
+    {   "id": 7,
+        "ciudad": "Concepción", 
+        "single": 51000, 
+        "doble": 60000,
+        "img": "./imagenes/concepcion.jpg",
+        "descripcion": "Si siempre soñaste con tener tu propia banda de rock, no puedes dejar de recorrer los bares y salas de ensayo de esta ciudad. Cuna de grandes músicos, en cada esquina se escucha un acorde o aplaude un nuevo artista. Recorre su barrio universitario y deléitate con su gran oferta cultural liderada por la Casa del Arte donde brilla a sus anchas “La Presencia de América”, colorido mural del mexicano Jorge González, que celebra la independencia de los pueblos latinoamericanos. Enamórate de la bella vista de la ciudad que entrega el Cerro Caracol y Parque Ecuador."
+    },
+
+    {   "id": 8,
+        "ciudad": "Temuco", 
+        "single": 43000, 
+        "doble": 51000,
+        "img": "./imagenes/temuco.jpg",
+        "descripcion": "“Mary mary wenul”, es el tradicional saludo mapuche y la mejor manera de ingresar al último bastión indígena de nuestro país. Saca tu lado guerrero, y conoce la mística cosmovisión del pueblo originario que habita entre bosques de ancestrales araucarias y cristalinos riachuelos. Embriágate con sus rústicos olores y sabores que son el mejor reflejo de la cultura local. Escala el cerro Ñielol, en la cima del Patrimonio Natural tendrás una vista privilegiada de la ciudad que mezcla campo y modernidad. Recorre sus agitadas calles, el ágil ambiente universitario y sus históricos museos te sorprenderán."
+    },
+
+    {   "id": 9,
+        "ciudad": "Valdivia", 
+        "single": 59000, 
+        "doble": 65000,
+        "img": "./imagenes/valdivia.jpg",
+        "descripcion": "Ríos y torreones marcan la identidad de la impresionante Valdivia. ¡Ven a conocer la ciudad austral más antigua del mundo, y sus prados y bosques siempre verdes! Respira y siente el exquisito aire puro navegando por su principal río, el Calle Calle. Disfruta los mejores productos del mar en el Mercado Fluvial y diviértete junto a los lobos marinos en la costanera. Vive un festival de sabores probando cervezas artesanales, carne de jabalí, crudos (tártaros) y chocolates. Recorre el fascinante Museo de Arte Contemporáneo (MAC), edificado sobre los restos de la histórica Cervecería Anwandter."
+    },
+
+    {   "id": 10,
+        "ciudad": "Frutillar", 
+        "singl": 60000, 
+        "doble": 67000,
+        "img": "./imagenes/frutillar.jpg",
+        "descripcion": "Su latente tradición alemana te invita a saborear un delicioso kuchen o strudel de manzana a orillas del lago Llanquihue. ¡Imprégnate de la mezcla cultural chileno alemana en esta ciudad custodiada por volcanes! La cercana ciudad lacustre de Frutillar se destaca por ofrecer a lo largo del año un programa de eventos musicales de primer nivel. El escenario del magnífico Teatro del Lago recibe a orquestas y artistas mundialmente conocidos, y cada verano las Semanas Musicales de Frutillar – un festival de dos semanas de recitales y conciertos – trae a miles de conocedores de la mejor música clásica."
+    },
+
+    {   "id": 11,
+        "ciudad": "Punta Arenas", 
+        "single": 63000, 
+        "doble": 68000,
+        "img": "./imagenes/puntaarenas.jpg",
+        "descripcion": "De tradición portuaria y ovina, esta puerta de entrada al continente antártico cautiva con su aire puro y sofisticada arquitectura europea. Navega en barco o kayak por el Estrecho de Magallanes y asómbrate con los pingüinos que te reciben amablemente en la Isla Magdalena. Aventúrate a Tierra del Fuego y descubre sus secretos mejor guardados sobre los pueblos Kawésqar y Selknam, originarios del extremo sur de Chile. Retrocede en el tiempo recorriendo el cementerio de Punta Arenas. Sus bellos jardines adornan con elegancia la tumba de personajes históricos de la zona."
+    }
+]
